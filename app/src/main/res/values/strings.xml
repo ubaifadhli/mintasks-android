@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MinTasks</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="due_date">Due date</string>
+    <string name="description">Description</string>
+    <string name="owner">Owner</string>
+    <string name="collaborator">Collaborator</string>
+</resources>
